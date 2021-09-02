@@ -1,0 +1,55 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin-top:0%;
+  }
+  p{
+      text-align: center;
+      color:black;
+      font-weight: bolder;
+  }
+
+  h4{
+      text-align: center;
+      color:black;
+      
+  }
+
+  #container {
+    margin:auto;
+    
+    background:fill;
+   
+  }
+  
+  #poke-container {
+    margin: auto;
+    width: 100%;
+    padding: 30px;
+    
+  }
+  
+  #header-container {
+    border-radius: 0px !important;
+   background-color:blue; 
+   height: 100px;
+   margin-bottom: 0%;
+  }
+  
+  #header-text{
+    margin: 0 auto;
+  }
+  
+  #generate-pokemon {
+    margin: 0 auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color: yellow;
+  }
+  @import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+  h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:yellow;
+    font-weight: 100;
+  }
+ 
